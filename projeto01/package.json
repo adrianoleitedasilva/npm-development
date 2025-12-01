@@ -1,0 +1,19 @@
+{
+  "name": "projeto01",
+  "version": "1.0.0",
+  "description": "Primeiro projeto do módulo de NPM",
+  "keywords": [
+    "projeto01",
+    "npmDevelopment"
+  ],
+  "license": "MIT",
+  "author": "adrianoleitedasilva",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
